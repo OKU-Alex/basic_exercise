@@ -6,3 +6,4 @@ The next three days
 Appleseed Alpha
 new line added in master branch
 one more line
+second line added HERE
