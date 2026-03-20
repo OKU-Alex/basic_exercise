@@ -22,3 +22,4 @@ main new line
 main new line
 new line 23
 new line 24
+line in new-feature
