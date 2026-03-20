@@ -15,3 +15,5 @@ local line for conflict
 another server line
 
 new line
+
+main new line
