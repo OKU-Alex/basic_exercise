@@ -12,3 +12,4 @@ line locally to conflict
 local line to check diff
 server line added
 local line for conflict
+another server line
