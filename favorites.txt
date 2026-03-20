@@ -13,3 +13,5 @@ local line to check diff
 server line added
 local line for conflict
 another server line
+
+new line
